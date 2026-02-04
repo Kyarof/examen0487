@@ -1,0 +1,5 @@
+git remote add origin https://github.com/Kyarof/examen0487.git
+git add .
+git commit -m "conf inici"
+git push origin master
+nano .gitignore --> mes les exepcions
