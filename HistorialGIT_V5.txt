@@ -1,0 +1,6 @@
+git add .
+git commit -m "mod web"
+git push origin elmeuweb
+cd zip01
+nano zip01  --> modifiquem no he trobat @ i ho estic fent des de la terminal...
+
