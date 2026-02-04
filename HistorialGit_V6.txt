@@ -1,0 +1,7 @@
+git add .
+git commit -m "mod footer"
+git push origin elmeuweb
+cd ..
+git diff master elmeuweb
+git checkout master
+git merge elmeuweb
