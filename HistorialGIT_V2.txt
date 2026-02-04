@@ -3,3 +3,8 @@ git add .
 git commit -m "conf inici"
 git push origin master
 nano .gitignore --> mes les exepcions
+
+
+
+
+alguns git status -s en el process

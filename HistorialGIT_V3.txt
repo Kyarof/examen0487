@@ -1,0 +1,4 @@
+git add .
+git commit -m "conf ignore"
+git push origin master
++ copiar de manera manual el arxiu descomprimit
