@@ -1,0 +1,6 @@
+git add .
+git commit -m "upd canvis"
+git push origin main
+git nano historialgit_v9.txt ...
+git nano OPINIO.TXT
+

@@ -1,0 +1,4 @@
+La meva opinio sobre github es molt bona, ja que ajuda a empresas a organitzar la seva feina i poder treballar amb un sistema que afavoreix i permet tenir les versions dels projectes actualitzades sense 
+risc de perdre o suprimir arxius al treballar mes d'una persona.
+Git esta be, pero crec que la majoria de coses es poden fer de manera mes simple a traves de github... grafic.
+Es util tal hi com he comentat per treballar amb altres companys i evitar suprimir el seu contingut
