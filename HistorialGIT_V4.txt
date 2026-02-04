@@ -1,0 +1,7 @@
+git add .
+git commit -m "zip upd"
+git push origin master
+git Branch elmeuweb
+git checkout elmeuweb
+cd zip01
+nano zip01 i modificar ho que demana
